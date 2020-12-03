@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
+  <a href="https://storybook.js.org/">
+    <img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" alt="Storybook" width="400" />
+  </a>
 </p>
 
 ## Open-wc Starter App
