@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "my-button",
+      "description": "A custom built button component",
+      "properties": [
+        {
+          "name": "buttonText",
+          "type": "String",
+          "description": "The content of your button",
+          "default": ""
+        }
+      ],
+      "events": [],
+      "slots": [],
+      "cssProperties": [
+        {
+          "name": "--my-button-font-size",
+          "description": "Font size"
+        },
+        {
+          "name": "--my-button-font-color",
+          "description": "Font color"
+        },
+        {
+          "name": "--my-button-bg-color",
+          "description": "Background color"
+        }
+      ]
+    }
+  ]
+}
